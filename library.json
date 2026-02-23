@@ -101,5 +101,397 @@
     "suslong_dcclar_suslong_fs5_v1_rr1_sum": "suslong/DCClar_susLong_F#5_v1_rr1_sum.wav",
     "suslong_dcclar_suslong_fs5_v2_rr1_sum": "suslong/DCClar_susLong_F#5_v2_rr1_sum.wav",
     "suslong_dcclar_suslong_fs5_v3_rr1_sum": "suslong/DCClar_susLong_F#5_v3_rr1_sum.wav"
-  }
+  },
+  "noteMap": [
+    {
+      "note": "D2",
+      "sample": "stac_dcclar_stac_d2_v1_rr1_sum",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "D2",
+      "sample": "suslong_dcclar_suslong_d2_v1_rr1_sum",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "D2",
+      "sample": "stac_dcclar_stac_d2_v2_rr1_sum",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "D2",
+      "sample": "suslong_dcclar_suslong_d2_v2_rr1_sum",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "D2",
+      "sample": "stac_dcclar_stac_d2_v3_rr1_sum",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "D2",
+      "sample": "suslong_dcclar_suslong_d2_v3_rr1_sum",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "F2",
+      "sample": "stac_dcclar_stac_f2_v1_rr1_sum",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "F2",
+      "sample": "suslong_dcclar_suslong_f2_v1_rr1_sum",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "F2",
+      "sample": "stac_dcclar_stac_f2_v2_rr1_sum",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "F2",
+      "sample": "suslong_dcclar_suslong_f2_v2_rr1_sum",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "F2",
+      "sample": "stac_dcclar_stac_f2_v3_rr1_sum",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "F2",
+      "sample": "suslong_dcclar_suslong_f2_v3_rr1_sum",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "A#2",
+      "sample": "stac_dcclar_stac_as2_v1_rr1_sum",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "A#2",
+      "sample": "suslong_dcclar_suslong_as2_v1_rr1_sum",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "A#2",
+      "sample": "stac_dcclar_stac_as2_v2_rr1_sum",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "A#2",
+      "sample": "suslong_dcclar_suslong_as2_v2_rr1_sum",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "A#2",
+      "sample": "stac_dcclar_stac_as2_v3_rr1_sum",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "A#2",
+      "sample": "suslong_dcclar_suslong_as2_v3_rr1_sum",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "D3",
+      "sample": "stac_dcclar_stac_d3_v1_rr1_sum",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "D3",
+      "sample": "suslong_dcclar_suslong_d3_v1_rr1_sum",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "D3",
+      "sample": "stac_dcclar_stac_d3_v2_rr1_sum",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "D3",
+      "sample": "suslong_dcclar_suslong_d3_v2_rr1_sum",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "D3",
+      "sample": "stac_dcclar_stac_d3_v3_rr1_sum",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "D3",
+      "sample": "suslong_dcclar_suslong_d3_v3_rr1_sum",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "F3",
+      "sample": "stac_dcclar_stac_f3_v1_rr1_sum",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "F3",
+      "sample": "suslong_dcclar_suslong_f3_v1_rr1_sum",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "F3",
+      "sample": "stac_dcclar_stac_f3_v2_rr1_sum",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "F3",
+      "sample": "suslong_dcclar_suslong_f3_v2_rr1_sum",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "F3",
+      "sample": "stac_dcclar_stac_f3_v3_rr1_sum",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "F3",
+      "sample": "suslong_dcclar_suslong_f3_v3_rr1_sum",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "A#3",
+      "sample": "stac_dcclar_stac_as3_v1_rr1_sum",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "A#3",
+      "sample": "suslong_dcclar_suslong_as3_v1_rr1_sum",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "A#3",
+      "sample": "stac_dcclar_stac_as3_v2_rr1_sum",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "A#3",
+      "sample": "suslong_dcclar_suslong_as3_v2_rr1_sum",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "A#3",
+      "sample": "stac_dcclar_stac_as3_v3_rr1_sum",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "A#3",
+      "sample": "suslong_dcclar_suslong_as3_v3_rr1_sum",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "D4",
+      "sample": "stac_dcclar_stac_d4_v1_rr1_sum",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "D4",
+      "sample": "suslong_dcclar_suslong_d4_v1_rr1_sum",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "D4",
+      "sample": "stac_dcclar_stac_d4_v2_rr1_sum",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "D4",
+      "sample": "suslong_dcclar_suslong_d4_v2_rr1_sum",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "D4",
+      "sample": "stac_dcclar_stac_d4_v3_rr1_sum",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "D4",
+      "sample": "suslong_dcclar_suslong_d4_v3_rr1_sum",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "F4",
+      "sample": "stac_dcclar_stac_f4_v1_rr1_sum",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "F4",
+      "sample": "suslong_dcclar_suslong_f4_v1_rr1_sum",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "F4",
+      "sample": "stac_dcclar_stac_f4_v2_rr1_sum",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "F4",
+      "sample": "suslong_dcclar_suslong_f4_v2_rr1_sum",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "F4",
+      "sample": "stac_dcclar_stac_f4_v3_rr1_sum",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "F4",
+      "sample": "suslong_dcclar_suslong_f4_v3_rr1_sum",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "A#4",
+      "sample": "stac_dcclar_stac_as4_v1_rr1_sum",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "A#4",
+      "sample": "suslong_dcclar_suslong_as4_v1_rr1_sum",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "A#4",
+      "sample": "stac_dcclar_stac_as4_v2_rr1_sum",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "A#4",
+      "sample": "suslong_dcclar_suslong_as4_v2_rr1_sum",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "A#4",
+      "sample": "stac_dcclar_stac_as4_v3_rr1_sum",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "A#4",
+      "sample": "suslong_dcclar_suslong_as4_v3_rr1_sum",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "D5",
+      "sample": "suslong_dcclar_suslong_d5_v1_rr1_sum",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "D5",
+      "sample": "stac_dcclar_stac_d5_v2_rr1_sum",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "D5",
+      "sample": "suslong_dcclar_suslong_d5_v2_rr1_sum",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "D5",
+      "sample": "stac_dcclar_stac_d5_v3_rr1_sum",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "D5",
+      "sample": "suslong_dcclar_suslong_d5_v3_rr1_sum",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "F5",
+      "sample": "stac_dcclar_stac_f5_v1_rr1_sum",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "F5",
+      "sample": "stac_dcclar_stac_f5_v2_rr1_sum",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "F5",
+      "sample": "stac_dcclar_stac_f5_v3_rr1_sum",
+      "loVel": 85,
+      "hiVel": 127
+    },
+    {
+      "note": "F#5",
+      "sample": "suslong_dcclar_suslong_fs5_v1_rr1_sum",
+      "loVel": 0,
+      "hiVel": 42
+    },
+    {
+      "note": "F#5",
+      "sample": "suslong_dcclar_suslong_fs5_v2_rr1_sum",
+      "loVel": 43,
+      "hiVel": 84
+    },
+    {
+      "note": "F#5",
+      "sample": "suslong_dcclar_suslong_fs5_v3_rr1_sum",
+      "loVel": 85,
+      "hiVel": 127
+    }
+  ]
 }
